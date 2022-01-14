@@ -1,6 +1,6 @@
 # f1m2JS - Museum Online
 
-Jari Kee
+Tygo Jedema
 
 [opdracht kleuren](http://33975.hosts1.ma-cloud.nl/f1m2js/les1/)
 
