@@ -1,6 +1,6 @@
 # f1m2JS - Museum Online
 
-### LEs 6 word aan gewerkt
+### Les 6 word aan gewerkt
 
 Tygo Jedema
 
