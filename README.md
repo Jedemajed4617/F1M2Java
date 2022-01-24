@@ -1,6 +1,6 @@
 # f1m2JS - Museum Online
 
-### Les 2 en 4 ben ik nog mee bezig te uploaden.
+### LEs 6 word aan gewerkt
 
 Tygo Jedema
 
